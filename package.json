@@ -1,6 +1,6 @@
 {
   "name": "kitchen",
-  "homepage":"https://kitchensalahkar.com/"; ,
+  "homepage": ,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
